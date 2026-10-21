@@ -12,7 +12,6 @@ load_dotenv()
 BASE_DIR = Path(__file__).resolve().parent.parent
 LOG_DIR = BASE_DIR / "logs"
 
-# Создаем папку logs, если ее еще нет
 LOG_DIR.mkdir(exist_ok=True)
 
 log_path = LOG_DIR / "utils.log"
