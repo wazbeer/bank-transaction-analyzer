@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="98d731ed-1afe-47dd-a0ce-592f7541d19c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +42,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "feature/views",
+    "git-widget-placeholder": "feature/services",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/Вазби/Documents/singularity/Coursework",
     "node.js.detected.package.jshint": "true",
