@@ -1,0 +1,4 @@
+2026-10-22 16:01:42,560 - src.reports - INFO - spending by category filter attempt
+2026-10-22 16:01:42,562 - src.reports - INFO - got start date
+2026-10-22 16:01:42,584 - src.reports - INFO - got operation date
+2026-10-22 16:01:42,585 - src.reports - INFO - successfully filtered by category

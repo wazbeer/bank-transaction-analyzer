@@ -24,7 +24,7 @@ formatter = logging.Formatter("%(asctime)s - %(name)s - %(levelname)s - %(messag
 
 file_handler.setFormatter(formatter)
 utils_logger.addHandler(file_handler)
-
+utils_logger.propagate = False
 
 def excel_reader(excel_path: str) -> list[dict]:
     """Принимает на вход путь к xlsx файлу транзакций и возвращает список словарей"""
